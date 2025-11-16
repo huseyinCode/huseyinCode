@@ -22,11 +22,11 @@
 
 ###
 
-<h2 align="left">Skills</h2>
+<h2 align="center">Skills</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
@@ -53,12 +53,14 @@
 </div>
 
 
-<div align="center">
+<div align="center" margin=10>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=huseyinCode&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-###
 
+<div align="center" margin=10>
 <img src="https://raw.githubusercontent.com/huseyinCode/huseyinCode/output/snake.svg" alt="Snake animation" />
+</div>
+
 
 ###
 <div align="right">
